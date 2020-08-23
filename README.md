@@ -85,11 +85,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
     <link rel="stylesheet" href="../css/index.css">
-</head>
-<body>
 
-<div>
-        <p>I'm currently Pursuing B.Tech in CSE at RIET, Jaipur <a href="https://www.rietjaipur.ac.in/" target='_blank'>RIET, Jaipur</a>, but I'm always open to new opportunities that let me help as much as I can on other projects.</p>
+<p>I'm currently Pursuing B.Tech in CSE at RIET, Jaipur <a href="https://www.rietjaipur.ac.in/" target='_blank'>RIET, Jaipur</a>, but I'm always open to new opportunities that let me help as much as I can on other projects.</p>
         <p><strong>I can help with the following:</strong></p>
         <ul class="list-unstyled service-list">
             <li><i class="fa fa-check" aria-hidden="true"></i> Back-end development with Python</li>
