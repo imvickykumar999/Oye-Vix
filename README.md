@@ -13,7 +13,7 @@
             <p>Lover of innovation and everything related to generate new knowledge, and not only that, but share it with the community. Face problems with a smile and solve them as soon as possible. Excellent interpersonal relationships. Believer that when problems arise the team should focus on finding a solution, instead of blame someone.</p>
         </div>
 
-    </div>
+   </div>
     
 </body>
 </html>
