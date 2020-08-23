@@ -118,9 +118,7 @@
                 <a href="https://www.instagram.com/vickykumar2493/" target="_blank"><img src="https://raw.githubusercontent.com/imvickykumar999/Portfolio-oye-vicks/master/image/instagram2.png" style="width:142px;height:142px;"></a>
                 <a href="https://medium.com/@imvickykumar999" target="_blank"><img src="https://raw.githubusercontent.com/imvickykumar999/Portfolio-oye-vicks/master/image/medium.png" style="width:142px;height:142px;"></a></p>
             </ul><!--//social-->
-    </div>
-
-    
+</div>
 </body>
 </html>
 
