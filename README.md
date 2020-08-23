@@ -1,3 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+
+<body>
+    <div id="about">
+        <h3>About</h3>
+        <div class="description">
+            <p>Lover of innovation and everything related to generate new knowledge, and not only that, but share it with the community. Face problems with a smile and solve them as soon as possible. Excellent interpersonal relationships. Believer that when problems arise the team should focus on finding a solution, instead of blame someone.</p>
+        </div>
+
+    </div>
+    
+</body>
+</html>
+
+
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
