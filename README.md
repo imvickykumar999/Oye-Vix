@@ -12,7 +12,7 @@
 <p><a href="https://www.linkedin.com/feed/update/urn:li:activity:6690301901252132864/">LinkedIn</a></p>
 <p><a href="https://www.google.com/">Google</a></p>
 
-<a href="https://github.com/imvickykumar999"><img src="vicks.png" alt="GitHub" style="width:142px;height:142px;"></a>
+<a href="https://github.com/imvickykumar999"><img src="https://github.com/imvickykumar999/Portfolio/blob/master/vicks.png" alt="GitHub" style="width:142px;height:142px;"></a>
 
 </body>
 </html>
