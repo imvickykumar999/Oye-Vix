@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,10 +13,72 @@
         </div>
 
    </div>
-    
 </body>
 </html>
 
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+
+  
+<div id="home">
+        <section class="profile"> 
+            <img src="../image/profile.jpg" alt="profile.jpg" class="profile_img" >
+            <div class="someText">
+                Hey! It's me Vicky Kumar
+            </div>
+        </section>
+    
+  <div class="description">
+        
+   <p>An excellent partner, developer and friend. We've worked together for live project Portfolio website 2018, participating in several positions in the Software Development field and side projects.</p>
+            <p>He is creative, curious, innovative, responsible and quite a rational thinker. Coding as a way of life, his work presents products with great quality, following standards and good practices.</p>
+            <p>Also passionate, confident, cheerful and respectful. His leadership quality moves people forward toward achieving the team's goals.</p>
+                        
+  </div>
+  </div>  
+</body>
+</html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+
+ <div>
+
+  These are the skills :
+        
+<p>Completed Internship on Python .
+        Worked as an Intern to develop PC application using Python.</p
+    <p>Technologies and Language used:</p>
+    <ul>
+        <li>Python</li>
+        <li>Firebase</li>
+        <li>C++</li>
+        <li>C</li>
+        <li>HTML</li>
+        <li>JavaScript</li>
+        <li>CSS</li>
+        <li>PHP</li>
+        <li>SQL</li>
+        <li>Android</li>
+        <li>WebApp</li>
+        <li>SqlLite</li>
+        <li>Java</li>
+        <li>Xml</li>
+
+   </ul>
+</div>
+</body>
+</html>
 
 <html>
 <head>
