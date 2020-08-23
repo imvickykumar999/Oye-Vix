@@ -23,18 +23,18 @@
         <p>or, Whatsapp Number : <a href="https://api.whatsapp.com/send?phone=918239957923&text=hi,%20i%20found%20your%20contact%20from%20your%20portfolio%20link&source=&data=&app_absent=" target="_blank"> +91 8239957923 </a></p>
         
    <ul class="social list-inline">
-                <p><a href="https://www.linkedin.com/in/vicky-kumar-433542190/" target="_blank"><img src="../image/linkedin.png" style="width:142px;height:142px;"></a>
-                <a href="https://twitter.com/Vickyku27424662" target="_blank"><img src="../image/twitter.png" style="width:142px;height:142px;"></a>
-                <a href="https://www.youtube.com/channel/UCCCMOhooI8821rauAVZQwbA" target="_blank"><img src="../image/youtube1.png" style="width:142px;height:142px;"></a>
-                <a href="https://www.youtube.com/channel/UCWaXTlc-ECnQz4JHKg1KfAw" target="_blank"><img src="../image/youtube2.png" style="width:142px;height:142px;"></a>
-                <a href="https://www.yourquote.in/vicky-kumar-bagzz/quotes" target="_blank"><img src="../image/yourquote.png" style="width:142px;height:142px;"></a>
-                <a href="https://www.sololearn.com/Profile/8044164/" target="_blank"><img src="../image/sololearn1.png" style="width:142px;height:142px;"></a></p>
-                <p><a href="https://www.sololearn.com/Profile/12699769/" target="_blank"><img src="../image/sololearn2.png" style="width:142px;height:142px;"></a>
-                <a href="https://github.com/imvickykumar999" target="_blank"><img src="../image/github.png" style="width:142px;height:142px;"></a>
-                <a href="https://www.instagram.com/oye.vix/" target="_blank"><img src="../image/instagram1.png" style="width:142px;height:142px;"></a>
-                <a href="https://www.facebook.com/Imvickykumar999/" target="_blank"><img src="../image/facebook.png" style="width:142px;height:142px;"></a>
-                <a href="https://www.instagram.com/vickykumar2493/" target="_blank"><img src="../image/instagram2.png" style="width:142px;height:142px;"></a>
-                <a href="https://medium.com/@imvickykumar999" target="_blank"><img src="../image/medium.png" style="width:142px;height:142px;"></a></p>
+                <p><a href="https://www.linkedin.com/in/vicky-kumar-433542190/" target="_blank"><img src="https://github.com/imvickykumar999/Portfolio-oye-vicks/tree/master/image/linkedin.png" style="width:142px;height:142px;"></a>
+                <a href="https://twitter.com/Vickyku27424662" target="_blank"><img src="https://github.com/imvickykumar999/Portfolio-oye-vicks/tree/master/image/twitter.png" style="width:142px;height:142px;"></a>
+                <a href="https://www.youtube.com/channel/UCCCMOhooI8821rauAVZQwbA" target="_blank"><img src="https://github.com/imvickykumar999/Portfolio-oye-vicks/tree/master/image/youtube1.png" style="width:142px;height:142px;"></a>
+                <a href="https://www.youtube.com/channel/UCWaXTlc-ECnQz4JHKg1KfAw" target="_blank"><img src="https://github.com/imvickykumar999/Portfolio-oye-vicks/tree/master/image/youtube2.png" style="width:142px;height:142px;"></a>
+                <a href="https://www.yourquote.in/vicky-kumar-bagzz/quotes" target="_blank"><img src="https://github.com/imvickykumar999/Portfolio-oye-vicks/tree/master/image/yourquote.png" style="width:142px;height:142px;"></a>
+                <a href="https://www.sololearn.com/Profile/8044164/" target="_blank"><img src="https://github.com/imvickykumar999/Portfolio-oye-vicks/tree/master/image/sololearn1.png" style="width:142px;height:142px;"></a></p>
+                <p><a href="https://www.sololearn.com/Profile/12699769/" target="_blank"><img src="https://github.com/imvickykumar999/Portfolio-oye-vicks/tree/master/image/sololearn2.png" style="width:142px;height:142px;"></a>
+                <a href="https://github.com/imvickykumar999" target="_blank"><img src="https://github.com/imvickykumar999/Portfolio-oye-vicks/tree/master/image/github.png" style="width:142px;height:142px;"></a>
+                <a href="https://www.instagram.com/oye.vix/" target="_blank"><img src="https://github.com/imvickykumar999/Portfolio-oye-vicks/tree/master/image/instagram1.png" style="width:142px;height:142px;"></a>
+                <a href="https://www.facebook.com/Imvickykumar999/" target="_blank"><img src="https://github.com/imvickykumar999/Portfolio-oye-vicks/tree/master/image/facebook.png" style="width:142px;height:142px;"></a>
+                <a href="https://www.instagram.com/vickykumar2493/" target="_blank"><img src="https://github.com/imvickykumar999/Portfolio-oye-vicks/tree/master/image/instagram2.png" style="width:142px;height:142px;"></a>
+                <a href="https://medium.com/@imvickykumar999" target="_blank"><img src="https://github.com/imvickykumar999/Portfolio-oye-vicks/tree/master/image/medium.png" style="width:142px;height:142px;"></a></p>
             </ul><!--//social-->
     </div>
 
