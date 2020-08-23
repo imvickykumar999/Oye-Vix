@@ -27,7 +27,7 @@
   
 <div id="home">
         <section class="profile"> 
-            <img src="../image/profile.jpg" alt="https://github.com/imvickykumar999/oye-vicks/blob/master/image/profile.jpg" class="profile_img" >
+            <img src="https://github.com/imvickykumar999/oye-vicks/blob/master/image/profile.jpg" alt="https://github.com/imvickykumar999/oye-vicks/blob/master/image/profile.jpg" class="profile_img" >
             <div class="someText">
                 Hey! It's me Vicky Kumar
             </div>
