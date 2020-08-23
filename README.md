@@ -1,3 +1,24 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Link to an Email Address</h2>
+
+<p>To create a link that opens in the user's email program (to let them send a new email), use mailto: inside the href attribute:</p>
+
+<p><a href="mailto:imvickykumar999@gmail.com">Send email</a></p>
+
+<h2>Absolute URLs</h2>
+<p><a href="https://www.linkedin.com/feed/update/urn:li:activity:6690301901252132864/">LinkedIn</a></p>
+<p><a href="https://www.google.com/">Google</a></p>
+
+<a href="https://github.com/imvickykumar999"><img src="vicks.png" alt="GitHub" style="width:142px;height:142px;"></a>
+
+</body>
+</html>
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/imvickykumar999/Website-with-Theme/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
