@@ -6,7 +6,7 @@
 </head>
 <body>
 
-    <div>
+<div>
         <p>I'm currently Pursuing B.Tech in CSE at RIET, Jaipur <a href="https://www.rietjaipur.ac.in/" target='_blank'>RIET, Jaipur</a>, but I'm always open to new opportunities that let me help as much as I can on other projects.</p>
         <p><strong>I can help with the following:</strong></p>
         <ul class="list-unstyled service-list">
@@ -22,7 +22,7 @@
         <p>Call me at <a href="tel:+918239957923"> +91 8239957923 </a></p>
         <p>or, Whatsapp Number : <a href="https://api.whatsapp.com/send?phone=918239957923&text=hi,%20i%20found%20your%20contact%20from%20your%20portfolio%20link&source=&data=&app_absent=" target="_blank"> +91 8239957923 </a></p>
         
-            <ul class="social list-inline">
+   <ul class="social list-inline">
                 <p><a href="https://www.linkedin.com/in/vicky-kumar-433542190/" target="_blank"><img src="../image/linkedin.png" style="width:142px;height:142px;"></a>
                 <a href="https://twitter.com/Vickyku27424662" target="_blank"><img src="../image/twitter.png" style="width:142px;height:142px;"></a>
                 <a href="https://www.youtube.com/channel/UCCCMOhooI8821rauAVZQwbA" target="_blank"><img src="../image/youtube1.png" style="width:142px;height:142px;"></a>
