@@ -119,6 +119,9 @@
                 <a href="https://medium.com/@imvickykumar999" target="_blank"><img src="https://raw.githubusercontent.com/imvickykumar999/Portfolio-oye-vicks/master/image/medium.png" style="width:142px;height:142px;"></a></p>
             </ul><!--//social-->
 
+<p align="center" >
+<img alt="Vicky's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imvickykumar999&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight"  > </p>
+
 <!--
 *imvickykumar999/About-me* is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
