@@ -24,12 +24,6 @@
 </head>
 <body>
 
-### Play Car Game... ( use laptop instead of mobile !!! )
-[![Game](https://raw.githubusercontent.com/imvickykumar999/Traffic-Racer/master/screenshot.png)](https://imvickykumar999.github.io/Traffic-Racer/)
-
-## Listen Music...
-[![Music Player](https://raw.githubusercontent.com/imvickykumar999/Music-Player/master/2020-08-23%20(1).png)](https://imvickykumar999.github.io/Music-Player/)
-  
 <div id="home">
         <section class="profile"> 
             <img src="https://raw.githubusercontent.com/imvickykumar999/Portfolio-oye-vicks/master/image/profile.jpg" alt="https://github.com/imvickykumar999/oye-vicks/blob/master/image/profile.jpg" class="profile_img" >
@@ -37,7 +31,13 @@
                 Hey! It's me Vicky Kumar
             </div>
         </section>
-    
+ 
+### Play Car Game... ( use laptop instead of mobile !!! )
+[![Game](https://raw.githubusercontent.com/imvickykumar999/Traffic-Racer/master/screenshot.png)](https://imvickykumar999.github.io/Traffic-Racer/)
+
+## Listen Music...
+[![Music Player](https://raw.githubusercontent.com/imvickykumar999/Music-Player/master/2020-08-23%20(1).png)](https://imvickykumar999.github.io/Music-Player/)
+ 
   <div class="description">
         
    <p>An excellent partner, developer and friend. We've worked together for live project Portfolio website 2018, participating in several positions in the Software Development field and side projects.</p>
