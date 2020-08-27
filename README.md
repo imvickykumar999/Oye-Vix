@@ -1,3 +1,11 @@
+[![](https://raw.githubusercontent.com/imvickykumar999/Portfolio-oye-vicks/master/image/profile.jpg)](https://imvickykumar999.github.io/simple-404-template/)
+        
+### Play Car Game... ( use laptop instead of mobile !!! )
+[![Game](https://raw.githubusercontent.com/imvickykumar999/Traffic-Racer/master/screenshot.png)](https://imvickykumar999.github.io/Traffic-Racer/)
+
+## Listen Music...
+[![Music Player](https://raw.githubusercontent.com/imvickykumar999/Music-Player/master/2020-08-23%20(1).png)](https://imvickykumar999.github.io/Music-Player/)
+ 
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -23,20 +31,6 @@
     <link rel="stylesheet" href="../css/index.css">
 </head>
 <body>
-
-<div id="home">
-        <section class="profile"> 
-            <img src="https://raw.githubusercontent.com/imvickykumar999/Portfolio-oye-vicks/master/image/profile.jpg" alt="https://github.com/imvickykumar999/oye-vicks/blob/master/image/profile.jpg" class="profile_img" >
-            <div class="someText">
-                Hey! It's me Vicky Kumar
-            </div>
-        </section>
- 
-### Play Car Game... ( use laptop instead of mobile !!! )
-[![Game](https://raw.githubusercontent.com/imvickykumar999/Traffic-Racer/master/screenshot.png)](https://imvickykumar999.github.io/Traffic-Racer/)
-
-## Listen Music...
-[![Music Player](https://raw.githubusercontent.com/imvickykumar999/Music-Player/master/2020-08-23%20(1).png)](https://imvickykumar999.github.io/Music-Player/)
  
   <div class="description">
         
