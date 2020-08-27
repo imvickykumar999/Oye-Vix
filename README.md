@@ -1,11 +1,3 @@
-# Play Car Game... ( use laptop instead of mobile !!! )
- 
-[![Game](https://raw.githubusercontent.com/imvickykumar999/Traffic-Racer/master/screenshot.png)](https://imvickykumar999.github.io/Traffic-Racer/)
-
-# Listen Music...
-
-[![Music Player](https://raw.githubusercontent.com/imvickykumar999/Music-Player/master/2020-08-23%20(1).png)](https://imvickykumar999.github.io/Music-Player/)
-
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -32,6 +24,11 @@
 </head>
 <body>
 
+### Play Car Game... ( use laptop instead of mobile !!! )
+[![Game](https://raw.githubusercontent.com/imvickykumar999/Traffic-Racer/master/screenshot.png)](https://imvickykumar999.github.io/Traffic-Racer/)
+
+## Listen Music...
+[![Music Player](https://raw.githubusercontent.com/imvickykumar999/Music-Player/master/2020-08-23%20(1).png)](https://imvickykumar999.github.io/Music-Player/)
   
 <div id="home">
         <section class="profile"> 
