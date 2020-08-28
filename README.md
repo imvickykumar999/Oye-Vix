@@ -16,7 +16,11 @@
 <body>
     <div id="about">
         <h3>About</h3>
-        <div class="description">
+            
+<script async src="https://cse.google.com/cse.js?cx=07d55285a263a7cd9"></script>
+<div class="gcse-search"></div>
+            
+<div class="description">
             <p>Lover of innovation and everything related to generate new knowledge, and not only that, but share it with the community. Face problems with a smile and solve them as soon as possible. Excellent interpersonal relationships. Believer that when problems arise the team should focus on finding a solution, instead of blame someone.</p>
         </div>
 
