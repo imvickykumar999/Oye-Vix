@@ -3,6 +3,8 @@
 ### Play Car Game... ( use laptop instead of mobile !!! )
 [![Game](https://raw.githubusercontent.com/imvickykumar999/Traffic-Racer/master/screenshot.png)](https://imvickykumar999.github.io/Traffic-Racer/)
 
+![Chrome Extention](https://raw.githubusercontent.com/imvickykumar999/Oye-Vix/master/Oye-Vix/screenshot.jpg)
+
 ## Listen Music...
 [![Music Player](https://raw.githubusercontent.com/imvickykumar999/Music-Player/master/2020-08-23%20(1).png)](https://imvickykumar999.github.io/Music-Player/)
  
