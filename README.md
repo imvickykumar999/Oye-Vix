@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 # [Search](https://cse.google.com/cse.js?cx=07d55285a263a7cd9)
 
 [![](https://raw.githubusercontent.com/imvickykumar999/Portfolio-oye-vicks/master/image/profile.jpg)](https://imvickykumar999.github.io/simple-404-template/)
