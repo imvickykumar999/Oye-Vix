@@ -1,12 +1,10 @@
 <p align="center" >
 <img alt=" Vicky's Profile Photo " src="https://raw.githubusercontent.com/imvickykumar999/Portfolio-oye-vicks/master/image/profile.jpg"></p>
 
-[![](https://github.com/imvickykumar999/Oye-Vix/blob/master/404.png)](https://imvickykumar999.github.io/simple-404-template/)
-
 ### Play Car Game... ( use laptop instead of mobile !!! )
 [![Game](https://raw.githubusercontent.com/imvickykumar999/Traffic-Racer/master/screenshot.png)](https://imvickykumar999.github.io/Traffic-Racer/)
 
-![Chrome Extention](https://raw.githubusercontent.com/imvickykumar999/Oye-Vix/master/Oye-Vix/screenshot.jpg)
+[![Chrome Extention](https://raw.githubusercontent.com/imvickykumar999/Oye-Vix/master/Oye-Vix/screenshot.jpg)](https://imvickykumar999.github.io/simple-404-template/)
 
 ## Listen Music...
 [![Music Player](https://raw.githubusercontent.com/imvickykumar999/Music-Player/master/2020-08-23%20(1).png)](https://imvickykumar999.github.io/Music-Player/)
@@ -22,7 +20,6 @@
     <div id="about">
         <h3>About</h3>
             
-<div class="gcse-search"></div>
 <div class="description">
             <p>Lover of innovation and everything related to generate new knowledge, and not only that, but share it with the community. Face problems with a smile and solve them as soon as possible. Excellent interpersonal relationships. Believer that when problems arise the team should focus on finding a solution, instead of blame someone.</p>
         </div>
