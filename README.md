@@ -27,13 +27,6 @@
 
    </div>
    
-   <!-- Put the following javascript before the closing </head> tag
-and replace 123:456 with your own Programmable Search Engine ID. -->
-<script async src="https://cse.google.com/cse.js?cx=123:456"></script>
-
-<!-- Place this tag where you want both of the search box and the search results to render -->
-<div class="gcse-search"></div>
-
 </body>
 </html>
 
