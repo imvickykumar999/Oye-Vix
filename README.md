@@ -1,5 +1,8 @@
-[![](https://raw.githubusercontent.com/imvickykumar999/Portfolio-oye-vicks/master/image/profile.jpg)](https://imvickykumar999.github.io/simple-404-template/)
-        
+[![](https://github.com/imvickykumar999/Oye-Vix/blob/master/404.png)](https://imvickykumar999.github.io/simple-404-template/)
+
+<p align="center" >
+<img alt=" Vicky's Profile Photo " src="https://raw.githubusercontent.com/imvickykumar999/Portfolio-oye-vicks/master/image/profile.jpg"></p>
+
 ### Play Car Game... ( use laptop instead of mobile !!! )
 [![Game](https://raw.githubusercontent.com/imvickykumar999/Traffic-Racer/master/screenshot.png)](https://imvickykumar999.github.io/Traffic-Racer/)
 
@@ -116,7 +119,7 @@
             </ul><!--//social-->
 
 <p align="center" >
-<img alt="Vicky's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imvickykumar999&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight"  > </p>
+<img alt="Vicky's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imvickykumar999&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight"></p>
 
 <!--
 *imvickykumar999/About-me* is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
