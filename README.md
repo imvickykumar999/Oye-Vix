@@ -7,7 +7,7 @@
 [![Game](https://raw.githubusercontent.com/imvickykumar999/Traffic-Racer/master/screenshot.png)](https://imvickykumar999.github.io/Traffic-Racer/)
 
 ## My Portfolio's Chrome Extension...
-[![Chrome Extention](https://raw.githubusercontent.com/imvickykumar999/Oye-Vix/master/Oye-Vix/screenshot.jpg)](https://imvickykumar999.github.io/simple-404-template/)
+[![Chrome Extention](https://raw.githubusercontent.com/imvickykumar999/Oye-Vix/master/Oye-Vix/screenshot.jpg)](https://github.com/imvickykumar999/Chrome-Extension)
 
 ## Listen Music...
 [![Music Player](https://raw.githubusercontent.com/imvickykumar999/Music-Player/master/2020-08-23%20(1).png)](https://imvickykumar999.github.io/Music-Player/)
