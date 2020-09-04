@@ -3,16 +3,16 @@
 <p align="center" >
 <img alt=" Vicky's Profile Photo " src="https://raw.githubusercontent.com/imvickykumar999/Portfolio-oye-vicks/master/image/profile.jpg"></p>
 
-## Play Snake Game... (Python based code)
-[![snake on browser](https://github.com/imvickykumar999/Brython/blob/master/2020-09-01%20(1).png)](https://imvickykumar999.github.io/Chrome-Extension/Brython%20Snake/snake.html)
+### Play Snake Game... (Python based code)
+[![snake on browser](https://raw.githubusercontent.com/imvickykumar999/Brython/master/2020-09-01%20(1).png)](https://imvickykumar999.github.io/Chrome-Extension/Brython%20Snake/snake.html)
 
 ### Play Car Game... ( use laptop instead of mobile !!! )
 [![Game](https://raw.githubusercontent.com/imvickykumar999/Traffic-Racer/master/screenshot.png)](https://imvickykumar999.github.io/Traffic-Racer/)
 
-## My Portfolio's Chrome Extension...
+### My Portfolio's Chrome Extension...
 [![Chrome Extention](https://raw.githubusercontent.com/imvickykumar999/Oye-Vix/master/Oye-Vix/screenshot.jpg)](https://github.com/imvickykumar999/Chrome-Extension)
 
-## Listen Music...
+### Listen Music...
 [![Music Player](https://raw.githubusercontent.com/imvickykumar999/Music-Player/master/2020-08-23%20(1).png)](https://imvickykumar999.github.io/Music-Player/)
  
 <html>
