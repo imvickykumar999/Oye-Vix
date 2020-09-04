@@ -1,4 +1,4 @@
-# Vicky Kumar
+# [Vicky Kumar](https://pypi.org/project/oye-vix/)
 
 <p align="center" >
 <img alt=" Vicky's Profile Photo " src="https://raw.githubusercontent.com/imvickykumar999/Portfolio-oye-vicks/master/image/profile.jpg"></p>
