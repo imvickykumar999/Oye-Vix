@@ -3,6 +3,9 @@
 <p align="center" >
 <img alt=" Vicky's Profile Photo " src="https://raw.githubusercontent.com/imvickykumar999/Portfolio-oye-vicks/master/image/profile.jpg"></p>
 
+## Play Snake Game... (Python based code)
+[![snake on browser](https://github.com/imvickykumar999/Brython/blob/master/2020-09-01%20(1).png)](https://imvickykumar999.github.io/Chrome-Extension/Brython%20Snake/snake.html)
+
 ### Play Car Game... ( use laptop instead of mobile !!! )
 [![Game](https://raw.githubusercontent.com/imvickykumar999/Traffic-Racer/master/screenshot.png)](https://imvickykumar999.github.io/Traffic-Racer/)
 
