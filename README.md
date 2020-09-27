@@ -3,7 +3,7 @@
 <p align="center" >
 <img alt=" Vicky's Profile Photo " src="https://raw.githubusercontent.com/imvickykumar999/Portfolio-oye-vicks/master/image/profile.jpg"></p>
 
-## [My first PyPi Published Package](https://pypi.org/project/oye-vix/)
+## [My PyPi Package : pip install vixtor](https://lnkd.in/dUWgbdj)
 
 ### Play Snake Game... (Python based code)
 [![snake on browser](https://raw.githubusercontent.com/imvickykumar999/Brython/master/2020-09-01%20(1).png)](https://imvickykumar999.github.io/Chrome-Extension/Brython%20Snake/snake.html)
