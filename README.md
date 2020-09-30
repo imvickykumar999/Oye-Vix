@@ -4,7 +4,7 @@
 <img alt=" Vicky's Profile Photo " src="https://raw.githubusercontent.com/imvickykumar999/Portfolio-oye-vicks/master/image/profile.jpg"></p>
 
 ## My vixtor PyPi Package :
-[![pip install vixtor](https://raw.githubusercontent.com/imvickykumar999/vixtor/master/screenshot%20vixtor%20version%200.0.2.png)](https://imvickykumar999.github.io/vixtor/)
+[![pip install vixtor](https://raw.githubusercontent.com/imvickykumar999/vixtor/master/screenshot%20vixtor%20version%200.0.3.png)](https://imvickykumar999.github.io/vixtor/)
 
 ### Play Snake Game... (Python based code)
 [![snake on browser](https://raw.githubusercontent.com/imvickykumar999/Brython/master/2020-09-01%20(1).png)](https://imvickykumar999.github.io/Chrome-Extension/Brython%20Snake/snake.html)
