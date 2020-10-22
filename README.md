@@ -4,7 +4,7 @@
 <img alt=" Vicky's Profile Photo " src="https://raw.githubusercontent.com/imvickykumar999/Portfolio-oye-vicks/master/image/profile.jpg"></p>
 
 ## [Portfolio using Flask](https://github.com/imvickykumar999/Portfolio-using-Flask)
-[![flask](https://raw.githubusercontent.com/imvickykumar999/Portfolio-using-Flask/main/screenshot.png)](https://portfoliousingflask.herokuapp.com/contact)
+[![flask](https://raw.githubusercontent.com/imvickykumar999/Portfolio-using-Flask/main/screenshot.png)](https://imvickykumar999.github.io/Portfolio-using-Flask/)
 
 ## My vixtor PyPi Package :
 [![pip install vixtor](https://raw.githubusercontent.com/imvickykumar999/vixtor/master/screenshot%20vixtor%20version%200.0.3.png)](https://imvickykumar999.github.io/vixtor/)
